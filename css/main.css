@@ -222,6 +222,14 @@ body{
     padding: 7% 15%;
 }
 
+.carousel-p
+{
+    color: #fff;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+}
+
 /* Contact Me Section */
 .circle
 {
@@ -278,7 +286,7 @@ body{
 
 .footer
 {
-    padding: 10px 0 10px 0;
+    padding: 30px 0 30px 0;
     color: #fff;
     font-size: 1rem;
     font-weight: 600;
